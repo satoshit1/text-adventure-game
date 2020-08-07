@@ -12,4 +12,4 @@ Provide students with the uncommented version of the program and in pairs they s
  - Add more rooms to the adventure.
  - Allow the user to complete the adventure once they have found the plans.
 
-
+[![Run on Repl.it](https://repl.it/badge/github/armbennett/text-adventure-game)](https://repl.it/github/armbennett/text-adventure-game)
